@@ -23,6 +23,4 @@ Programação por dinheiro
   
   ![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
   
-<p align="center">
-  <img src="https://raw.githubusercontent.comhttps://br.pinterest.com/pin/1064045849441127277 />
-  </p>
+
