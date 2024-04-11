@@ -15,7 +15,8 @@ Programação por dinheiro
   <img align="center" alt="Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
    <img align="center" alt="-Arduino" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
   <img align="center" alt="CPlusPlus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img align="center" alt="python" height="30" width="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" />
+  <img align="center" alt="c#" height="30" width="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor](https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" />
+   <img align="center" alt="k" height="30" width="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor](https://devicon-website.vercel.app/api/kotlin/original-wordmark.svg" />
           
 
 
