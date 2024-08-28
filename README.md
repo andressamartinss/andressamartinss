@@ -26,6 +26,11 @@ Eu era mais feliz antes de conhecer a programação
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,androidstudio" />
   </a>
+
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andressamartinss&bg_color=000000fcolor=000000&line=000000&point=d3d3d3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+##
+
 </p>
 
 
