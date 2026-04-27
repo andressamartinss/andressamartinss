@@ -24,7 +24,8 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=vscode,androidstudio, netbeans, powerautomate" />
+    
   </a>
 
   [![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=andressamartinss&bg_color=000000fcolor=000000&line=000000&point=d3d3d3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
